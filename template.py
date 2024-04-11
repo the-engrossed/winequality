@@ -20,7 +20,7 @@ list_of_files = [
     "conifg/config.yaml",
     "params.yaml",
     "schema.yaml",
-    "main.py",
+    "main_.py",
     "app.py",
     "requirements.txt",
     "setup.py",
