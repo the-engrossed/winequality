@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: winepred
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/the-engrossed/winequality
+Author: the-engrossed
+Author-email: tanmaireddy5598@gmail.com
+Project-URL: Bug Tracker, https://github.com/the-engrossed/winequality/issue
+Description-Content-Type: text/markdown
+
 **Tech Stack**
 1. Pandas
 2. sklearn

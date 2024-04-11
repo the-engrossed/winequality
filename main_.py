@@ -1,0 +1,1 @@
+from src.winepred.config import configuration
