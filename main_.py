@@ -1,1 +1,3 @@
-from src.winepred.config import configuration
+from winepred import logger
+
+logger.info("Custom log")
