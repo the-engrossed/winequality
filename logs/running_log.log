@@ -353,3 +353,29 @@ x==========x ]
 [2024-04-12 13:28:14,168: INFO: main_: >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x ]
+[2024-04-12 13:35:52,942: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.220:8080 ]
+[2024-04-12 13:35:52,943: INFO: _internal: [33mPress CTRL+C to quit[0m ]
+[2024-04-12 13:36:03,079: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:36:03] "GET / HTTP/1.1" 200 - ]
+[2024-04-12 13:36:03,158: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:36:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - ]
+[2024-04-12 13:41:56,529: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.220:8080 ]
+[2024-04-12 13:41:56,530: INFO: _internal: [33mPress CTRL+C to quit[0m ]
+[2024-04-12 13:42:03,994: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:03] "GET / HTTP/1.1" 200 - ]
+[2024-04-12 13:42:04,054: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:04] "GET /static/css2/nunito-font.css HTTP/1.1" 200 - ]
+[2024-04-12 13:42:04,054: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:04] "GET /static/js/scripts.js HTTP/1.1" 200 - ]
+[2024-04-12 13:42:04,054: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:04] "GET /static/css/styles.css HTTP/1.1" 200 - ]
+[2024-04-12 13:42:04,054: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:04] "GET /static/css2/style.css HTTP/1.1" 200 - ]
+[2024-04-12 13:42:04,822: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:04] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 - ]
+[2024-04-12 13:42:04,823: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:04] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 - ]
+[2024-04-12 13:42:04,919: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:04] "[33mGET /static/fonts/Nunito/Nunito-ExtraBold.ttf HTTP/1.1[0m" 404 - ]
+[2024-04-12 13:42:04,920: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:04] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 - ]
+[2024-04-12 13:42:04,985: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:04] "[33mGET /static/fonts/Nunito/Nunito-Black.ttf HTTP/1.1[0m" 404 - ]
+[2024-04-12 13:42:04,999: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:04] "[33mGET /static/fonts/Nunito/Nunito-SemiBold.ttf HTTP/1.1[0m" 404 - ]
+[2024-04-12 13:42:05,012: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:05] "[33mGET /static/fonts/Nunito/Nunito-Regular.ttf HTTP/1.1[0m" 404 - ]
+[2024-04-12 13:42:05,022: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:05] "[33mGET /static/fonts/Nunito/Nunito-Light.ttf HTTP/1.1[0m" 404 - ]
+[2024-04-12 13:42:05,054: INFO: _internal: 192.168.1.220 - - [12/Apr/2024 13:42:05] "[33mGET /static/fonts/Nunito/Nunito-ExtraLight.ttf HTTP/1.1[0m" 404 - ]
